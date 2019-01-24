@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assignment1
+namespace PeterTestProgram111
 {
     class Program
     {
